@@ -24,5 +24,7 @@ My final iteration brought everything from the second iteration together with a 
 
 The final project can be found here: https://isabelstoddart.github.io/FacelessNudes/
 
-** Scrollytelling code inspired by: https://towardsdatascience.com/how-i-created-an-interactive-scrolling-visualisation-with-d3-js-and-how-you-can-too-e116372e2c73 **
+** Scrollytelling code inspired by: https://towardsdatascience.com/how-i-created-an-interactive-scrolling-visualisation-with-d3-js-and-how-you-can-too-e116372e2c73 
+**
+
 ** Waffle chart code inspired by: http://bl.ocks.org/XavierGimenez/8070956 **
