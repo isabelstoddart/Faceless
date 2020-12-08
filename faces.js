@@ -90,7 +90,7 @@ function displayImages(){
             // all our images are in the "images"
             // folder which we will need to 
             // add to our filename first
-            return './Cropped/' + d.fileName
+            return './cropped/' + d.fileName
         })
 }
 
