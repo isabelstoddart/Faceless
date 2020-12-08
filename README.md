@@ -22,4 +22,4 @@ https://www.figma.com/file/OoljzKK7CmGXeniVnt1eTF/FacelessNudesProto2?node-id=0%
 
 My final iteration brought everything from the second iteration together with a scrollytelling effect. 
 
-The final project can be found here: 
+The final project can be found here: https://isabelstoddart.github.io/FacelessNudes/
