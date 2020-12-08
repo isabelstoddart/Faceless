@@ -1,0 +1,156 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="./libraries/d3.v5.min.js"></script>
+
+    <title>Faceless Nudes</title>
+</head>
+
+
+<body>
+    <!-- <div id="info">
+        a
+    </div> -->
+    <div id="tooltip"></div>
+    <div id="graphic">
+        <div id="sections">
+            <section class="step" id="one">
+                <div class="title"></div>
+                <br><br>
+                <h1>Faceless Nudes</h1>
+                <h2>In Abstract and Minimalist Nudes</h2> 
+                <h3>Of The Smithsonian</h3>
+                <!-- <img src="./coverNude.png" alt="Cover Nude" height="600" width="100%"> -->
+            </section>
+            <section class="step">
+                <div id="title">
+                    <p>70% of Nudes in The Smithsonian are of Women</p>
+                </div>
+                <div id="waffle1">
+                </div>
+                <div id="legend1">
+                </div>
+            </section>
+            <section class="step">
+                <div id="title">
+                    <p>40% of Female Nudes are Drawings</p>
+                </div>
+                <div id="waffle2">
+                </div>
+                <div id="legend2">
+                </div>
+            </section>
+            <section class="step" id="two">
+                <br><br><br><br><br><br>
+                <p>
+                    Out of those drawings, 37% are Faceless.
+                </p>
+                <div id="appc"></div>
+            </section>
+            <section class="step" id="three">
+                <p1>
+                    Yet, 91.4% Display Boobs
+                </p1>
+                <br><br>
+                <div id="appb"></div>
+                 
+            </section>
+            <section class="step" id="five">
+                <p>
+                    There is a common trend within drawn minimal and abstract nudes to create figures without faces. What is so minimal about this art then? The face is removed to be "minimal" yet the boobs remain.
+                </p>
+            </section>
+            <section class="step" id="six">
+                <h2> Out of the 68 artists of the nude drawings, 6 are female.</h2>
+                <p>
+                    Marguerite Zorach
+                    <br>
+                    Lily Cushing
+                    <br>
+                    Louise Nevelson
+                    <br>
+                    Alice Pike Barney
+                    <br>
+                    Jane "in vain" Winkelman
+                    <br>
+                    Louise Cox
+                </p>
+            </section>
+            <section class="step">
+                <p>
+                    23 of the 623 nude drawings were created by these women and 91.3% of them have faces.
+                </p>   
+                <div id="appf"></div>           
+            </section>
+            <section class="step">
+                <p>
+                    Removing the face from the figure leaves no way to identify a person, leaving them as just a body, just an object.
+                </p>             
+            </section>
+            <section class="step">
+                <h4>Objectification </h4><h5> noun</h5>
+                <p>
+                    the act of treating people as if they are objects, without rights or feelings of their own
+                </p>               
+            </section>
+            <section class="step">
+                <h2>
+                    “Sexual objectification doesn't get oppressive until it is done consistently, and to a specific group of people, and with no regard whatsoever paid to their humanity. Then it ceases to become about desire and starts to be about control. Seeing another person as meat and fat and bone and nothing else gives you power over them, if only for an instant. Structural sexual objection of women draws that instant out into an entire matrix of hurt. It tells us that women are bodies first, idealised, subservient bodies, and men are not.”
+                </h2>   
+                <h3>
+                    ― Laurie Penny
+                </h3> 
+                <h6>
+                    Unspeakable Things: Sex, Lies and Revolution
+                </h6>          
+            </section>
+            <section class="step" id="four">
+                <h2>
+                    Explore the Full Nudes
+                </h2>
+                <div id="container">
+                    <div id="button"><a href="javascript:filterData('withFaces')">With Faces</a></div>
+                    <div id="button"><a href="javascript:filterData('withoutFaces')">Faceless</a></div>
+                    <div id="button"><a href="javascript:filterData('allFaces')">All Faces</a></div>
+                  </div>
+              
+                  <div id="app"></div>
+              
+                  <button id="myBtn"></button>
+              
+                  <!-- The Modal -->
+                  <div id="myModal" class="modal">
+              
+                    <!-- Modal content -->
+                    <div class="modal-content">
+                      <span class="close">&times;</span>
+                      <div class="modal-image"></div>
+                    </div>
+              
+                  </div>
+                <span></span><span></span><span></span>
+            </section>
+           
+
+        </div>
+        <div id="vis">
+
+        </div>
+    </div>
+
+    
+
+    
+    <script src = 'scroller.js'></script>
+    <script src = 'sections.js'></script>
+    <script src = 'waffle2.js'></script>
+    <script src = 'waffle1.js'></script>
+    <script src="faces.js"></script>
+    <script src="sketch.js"></script>
+    <script src="femaleSketch.js"></script>
+    <script src="croppedSketch.js"></script>
+
+</body>
+</html>

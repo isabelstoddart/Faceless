@@ -1,0 +1,299 @@
+@font-face{
+    src: url(./Fonts/Abstract_Regular.otf);
+    font-family: Abstract;
+}
+
+body {
+    text-align: center;
+    vertical-align: center;
+    background-color: rgb(245, 244, 241);
+    overflow-x: hidden;
+}
+
+#sections {
+    position: relative;
+    display: inline-block;
+    width: 1024px;
+    top: 60px;
+    z-index: 90;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.step {
+    margin-bottom: 100px;
+    height: 700px;
+    font-family: Abstract;
+    font-weight: 400;
+    line-height: 1.4em;
+    text-align: justify;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-around; */
+}
+
+#two {
+  height:1200px;
+}
+
+#three {
+  height: 1800px;
+  margin-left: -140px;
+  margin-right: 100px;
+}
+
+#four {
+  margin-left: -115px;
+  margin-right: -150px;
+}
+
+#five {
+  height:800px;
+}
+
+#six {
+  height:900px;
+}
+
+h1{
+    font-family: Abstract;
+    text-align: center;
+    line-height: 25px;
+    font-size: 100px;
+    font-style: Bold;
+    z-index: 1;
+}
+
+h2{
+    font-family: Abstract;
+    text-align: center;
+    line-height: 30px;
+    font-size: 35px;
+    z-index: 1;
+}
+
+h3{
+    font-family: Abstract;
+    text-align: center;
+    line-height: 10px;
+    font-size: 20;
+    z-index: 1;
+}
+
+img{
+    z-index: 0;
+}
+
+#one {
+    background-image:url(coverNude.png);  
+    background-position:center;
+    background-size: cover;
+}
+
+h4{
+    font-family: Abstact;
+    text-align: center;
+    line-height: 20px;
+    font-size: 35px;
+    display: inline-flexbox;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+h5{
+    font-family: Abstract;
+    text-align: center;
+    line-height: 20px;
+    font-size: 20;
+    display: inline-flexbox;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+h6{
+    font-family: Abstract;
+    text-align: center;
+    line-height: 20px;
+    font-size: 20;
+    font-style: italic;
+}
+
+
+p {
+    text-align: center;
+    font-family: Abstract;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+p1 {
+  text-align: center;
+  font-family: Abstract;
+  font-size: 30px;
+  line-height: 35px;
+  vertical-align: center;
+  margin-left: 450px;
+  padding-bottom: 50px;
+}
+
+#waffle1 {
+    margin-bottom: -40px;
+    justify-content: center;
+    margin-left: 260px;
+  }
+  
+#legend1 {
+    font: 13px Abstract;
+    margin-left: 260px;
+}
+
+#waffle2 {
+    margin-bottom: -40px;
+    justify-content: center;
+    margin-left: 260px;
+}
+  
+#legend2 {
+    font: 13px Abstract;
+    margin-left: 260px;
+}
+
+#app{
+    margin-top: 1rem;
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(70px, 70px));
+  }
+  
+  div.smithsonian-card{
+    max-width: 100px;
+    display: inline-block;
+
+    vertical-align:top;
+    white-space:normal;
+  }
+  div.smithsonian-card h2{
+    font-size:1.2rem;
+    line-height:1.1;
+  }
+  div.smithsonian-card div.image{
+    width:100%;height:100%;
+    display:flex;
+    align-items: flex-end;
+  }
+  div.smithsonian-card div.image img{
+    max-width:100%;height:100%;
+    max-height:70px;
+  }
+  .object-date{ color:#999; }
+
+  #container{
+      text-align: center;
+  }
+
+  #button {
+      width: 6em;
+      border: 2px solid rgb(255, 255, 255);
+      background: rgb(192, 192, 192);
+      border-radius: 5px;
+      text-align: center;
+      vertical-align: middle;
+      justify-content: center;
+      display: inline-block;
+  }
+  a {
+      display: inline-block;
+      width: 100%;
+      line-height: 2em;
+      font-family: sans-serif;
+      color:rgb(0, 0, 0);
+      text-decoration: none;
+      border-radius: 5px;
+      text-align: center;
+      vertical-align: middle;
+      justify-content: center;
+  }
+  a:hover {
+      color: rgb(255, 255, 255);
+      background: rgb(192, 192, 192);
+  }
+
+  /* The Modal (background) */
+  .modal {
+      display: none; /* Hidden by default */
+      position: fixed; /* Stay in place */
+      z-index: 1; /* Sit on top */
+      padding-top: 100px; /* Location of the box */
+      left: 0;
+      top: 0;
+      width: 100%; /* Full width */
+      height: 100%; /* Full height */
+      overflow: auto; /* Enable scroll if needed */
+      background-color: rgb(0,0,0); /* Fallback color */
+      background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+
+  /* Modal Content */
+  .modal-content {
+      background-color: #fefefe;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #888;
+      width: 80%;
+  }
+  .modal-content img{
+    max-width:100%;height:auto;
+    /* max-height:200px; */
+  }
+
+  /* The Close Button */
+  .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  #appb{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(88px, 70px));
+  }
+  
+  div.smithsonian-cardb{
+    max-width: 100px;
+    display: inline-block;
+
+    vertical-align:top;
+    white-space:normal;
+  }
+  div.smithsonian-cardb h2{
+    font-size:1.2rem;
+    line-height:1.1;
+  }
+  div.smithsonian-cardb div.image{
+    width: 100%;height:100%;
+    display:flex;
+    align-items: flex-end;
+  }
+  div.smithsonian-cardb div.image img{
+    max-width:100%;height:100%;
+    max-height:50px;
+  }
+
+  #appf{
+    margin-top: 1rem;
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(70px, 70px));
+  }
+
+  #appc{
+    margin-top: 1rem;
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(70px, 70px));
+  }
