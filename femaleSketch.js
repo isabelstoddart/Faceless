@@ -44,7 +44,7 @@ function displayImagesf(json){
             // all our images are in the "images"
             // folder which we will need to 
             // add to our filename first
-            return './cropped/' + d.fileName
+            return './Cropped/' + d.fileName
         });
 
     // create a paragraph that will
