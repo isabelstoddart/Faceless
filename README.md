@@ -1,4 +1,4 @@
-# FacelessNudes
+# Faceless Nudes
 
 This was a two part project that started off as Carl Newman's Faceless Nudes, documented here: https://github.com/isabelstoddart/MS1Qualitative/blob/main/README.md
 
