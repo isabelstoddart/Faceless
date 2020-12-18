@@ -4,7 +4,7 @@
 
 This was a two part project that started off as Carl Newman's Faceless Nudes, documented [HERE](https://github.com/isabelstoddart/MS1Qualitative/blob/main/README.md)
 
-I discovered while searching the Smithsonian API that many of Carl Newman's nude drawings are faceless. I decided to expand this project after getting comments on this discovery to see if this pattern holds true with other artists nudes. 
+I discovered while searching the Smithsonian API that many of Carl Newman's nude drawings are faceless. I decided to expand this project after getting comments on this discovery to see if this pattern holds true with other artist's nudes. 
 
 This project is an observation piece uncovering the many drawings of faceless nudes in the Smithsonian. It touches on the objectification at hand by comparing faceless nudes to highly detailed breasts. I hope this project makes people think about this topic and maybe discover even more faceless nudes outside of the Smithsonian. 
 
