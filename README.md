@@ -1,6 +1,8 @@
 # Faceless Nudes
 
-This was a two part project that started off as Carl Newman's Faceless Nudes, documented here: https://github.com/isabelstoddart/MS1Qualitative/blob/main/README.md
+[Final Project](https://isabelstoddart.github.io/FacelessNudes/)
+
+This was a two part project that started off as Carl Newman's Faceless Nudes, documented [HERE](https://github.com/isabelstoddart/MS1Qualitative/blob/main/README.md)
 
 I discovered while searching the Smithsonian API that many of Carl Newman's nude drawings are faceless. I decided to expand this project after getting comments on this discovery to see if this pattern holds true with other artists nudes. 
 
@@ -21,6 +23,12 @@ https://www.figma.com/file/OoljzKK7CmGXeniVnt1eTF/FacelessNudesProto2?node-id=0%
 ## Final Iteration
 
 My final iteration brought everything from the second iteration together with a scrollytelling effect. 
+
+![](FNpic1.png)
+![](FNpic2.png)
+![](FNpic3.png)
+![](FNpic4.png)
+![](FNpic5.png)
 
 The final project can be found here: https://isabelstoddart.github.io/FacelessNudes/
 
