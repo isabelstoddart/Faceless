@@ -1,6 +1,6 @@
 # Faceless Nudes
 
-## [Final Project](https://isabelstoddart.github.io/FacelessNudes/)
+### [Final Project](https://isabelstoddart.github.io/FacelessNudes/)
 
 This was a two part project that started off as Carl Newman's Faceless Nudes, documented [HERE](https://github.com/isabelstoddart/MS1Qualitative/blob/main/README.md)
 
