@@ -2,7 +2,7 @@
 
 ### [Final Project](https://isabelstoddart.github.io/FacelessNudes/)
 
-## [Article about the project in The New School Blog](https://blogs.newschool.edu/news/2021/02/ms-data-visualization-collaborates-with-the-smithsonian-museum-for-digital-archive-project/)
+### [Article about the project in The New School Blog](https://blogs.newschool.edu/news/2021/02/ms-data-visualization-collaborates-with-the-smithsonian-museum-for-digital-archive-project/)
 
 This was a two part project that started off as Carl Newman's Faceless Nudes, documented [HERE](https://github.com/isabelstoddart/MS1Qualitative/blob/main/README.md)
 
