@@ -2,6 +2,8 @@
 
 ### [Final Project](https://isabelstoddart.github.io/FacelessNudes/)
 
+## [Article about the project in The New School Blog](https://blogs.newschool.edu/news/2021/02/ms-data-visualization-collaborates-with-the-smithsonian-museum-for-digital-archive-project/)
+
 This was a two part project that started off as Carl Newman's Faceless Nudes, documented [HERE](https://github.com/isabelstoddart/MS1Qualitative/blob/main/README.md)
 
 I discovered while searching the Smithsonian API that many of Carl Newman's nude drawings are faceless. I decided to expand this project after getting comments on this discovery to see if this pattern holds true with other artist's nudes. 
