@@ -1,4 +1,4 @@
-# Faceless Nudes
+# Faceless
 
 ### [Final Project](https://isabelstoddart.github.io/FacelessNudes/)
 
