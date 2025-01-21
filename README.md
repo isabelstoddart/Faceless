@@ -32,7 +32,7 @@ My final iteration brought everything from the second iteration together with a 
 ![](FNpic4.png)
 ![](FNpic5.png)
 
-The final project can be found here: https://isabelstoddart.github.io/FacelessNudes/
+The final project can be found here: https://isabelstoddart.github.io/Faceless/
 
 ** Scrollytelling code inspired by: https://towardsdatascience.com/how-i-created-an-interactive-scrolling-visualisation-with-d3-js-and-how-you-can-too-e116372e2c73 
 **
