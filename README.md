@@ -26,7 +26,7 @@ https://www.figma.com/file/OoljzKK7CmGXeniVnt1eTF/FacelessNudesProto2?node-id=0%
 
 My final iteration brought everything from the second iteration together with a scrollytelling effect. 
 
-![](FacelessCover.png)
+![](FNpic1.png)
 ![](FNpic2.png)
 ![](FNpic3.png)
 ![](FNpic4.png)
